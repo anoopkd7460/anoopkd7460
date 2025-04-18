@@ -11,6 +11,7 @@ Hello! I'm **Anoop Kumar Dwivedi**, a Master's student in Computer Applications 
 - 🌱 Always exploring new tools, frameworks, and methodologies in data science.
 ***
 
+
 # 💻 My Skills & Tools
 
 - **Programming Languages:** Python, C++, Java, MySQL
@@ -19,6 +20,7 @@ Hello! I'm **Anoop Kumar Dwivedi**, a Master's student in Computer Applications 
 - **IDE & Platforms:** VS Code, Jupyter, Google Colab, Git & GitHub, XAMPP
 - **Others:** MS Excel, MS Word, MySQL Workbench
 ***
+
 
 # 🧪 Projects
 
@@ -37,6 +39,7 @@ Supports both text and image communication with compression techniques
 Explore all projects here: My GitHub Projects
 *** 
 
+
 # 📜 Certifications
 
 - Java Programming – LetsUpgrade 
@@ -45,6 +48,7 @@ Explore all projects here: My GitHub Projects
 ***
 
 # 🏆 Achievements
+
 NIMCET AIR 544 (2024)
 
 ***
@@ -56,6 +60,6 @@ NIMCET AIR 544 (2024)
 📧 Email: anoopdwivedi816@gmail.com
 
 ***
-🗂️ GitHub Profile
+
 
 Feel free to explore my repositories, provide feedback, or connect for collaboration. Let's learn and build together! 🚀
