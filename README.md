@@ -2,7 +2,7 @@
 Hello! I'm **Anoop Kumar Dwivedi**, a Master's student in Computer Applications (Data Science) at **NIT Patna**, and an enthusiastic aspiring **Data Analyst**. I’m passionate about uncovering insights from data, transforming raw information into meaningful stories, and supporting data-driven decision-making. I love working on real-world analytics projects, sharpening my skills in visualization, and exploring the ever-evolving world of data.
 
 # 🚀 About Me
-___
+
 - 🎓 MCA (Data Science) student at NIT Patna
 - 💡 Keen interest in data analytics, web development, and system design
 - 🧠 Always upskilling – currently exploring network programming, image processing, and Big Data fundamentals
@@ -12,7 +12,7 @@ ___
 ***
 
 # 💻 My Skills & Tools
-___
+
 - **Programming Languages:** Python, C++, Java, MySQL
 - **Technologies & Tools:** Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup
 - **Database:** MySQL
@@ -21,7 +21,7 @@ ___
 ***
 
 # 🧪 Projects
-___
+
 **🔍 Web Page Word Frequency Analyzer**
 **Tools:** Python, BeautifulSoup, urllib, collections.Counter
 
@@ -38,18 +38,19 @@ Explore all projects here: My GitHub Projects
 *** 
 
 # 📜 Certifications
-___
+
 - Java Programming – LetsUpgrade 
 
 - C++ – Sololearn 
-
+***
 
 # 🏆 Achievements
 NIMCET AIR 544 (2024)
 
-
+***
 
 📬 Let's Connect!
+
 🔗 LinkedIn:https://www.linkedin.com/in/anoop-dwivedi
 
 📧 Email: anoopdwivedi816@gmail.com
