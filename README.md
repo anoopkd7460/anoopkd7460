@@ -44,7 +44,9 @@ Explore all projects here: My GitHub Projects
 
 - Java Programming – LetsUpgrade 
 
-- C++ – Sololearn 
+- C++ – Sololearn
+
+- MySQL(Basic) - HackerRank
 ***
 
 # 🏆 Achievements
