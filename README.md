@@ -42,7 +42,7 @@ Explore all projects here: My GitHub Projects
 
 # 📜 Certifications
 
-- Java Programming – LetsUpgrade 
+- Java Programming – HackerRank 
 
 - C++ – Sololearn
 
