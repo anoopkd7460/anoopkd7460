@@ -14,9 +14,9 @@ Hello! I'm **Anoop Kumar Dwivedi**, a Master's student in Computer Applications 
 
 # 💻 My Skills & Tools
 
-- **Programming Languages:** Python, C++, Java, MySQL
-- **Technologies & Tools:** Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup
-- **Database:** MySQL
+- **Programming Languages:** Python, C++, Java, MySQL, HTML, CSS, JavaScript
+- **Technologies & Tools:** Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Tableau
+- **Database:** MySQL Database
 - **IDE & Platforms:** VS Code, Jupyter, Google Colab, Git & GitHub, XAMPP
 - **Others:** MS Excel, MS Word, MySQL Workbench
 ***
@@ -47,6 +47,8 @@ Explore all projects here: My GitHub Projects
 - C++ – Sololearn
 
 - MySQL(Basic) - HackerRank
+
+- Python - HackerRank
 ***
 
 # 🏆 Achievements
