@@ -1,5 +1,5 @@
 ### 👋 Welcome to My GitHub!
-Hello! I'm **Anoop Kumar Dwivedi**, a Master's student in Computer Applications (Data Science) at **NIT Patna**, and an enthusiastic aspiring **Data Analyst**. I’m passionate about uncovering insights from data, transforming raw information into meaningful stories, and supporting data-driven decision-making. I love working on real-world analytics projects, sharpening my skills in visualization, and exploring the ever-evolving world of data.
+Hello! I'm **Anoop Dwivedi**, a Master's student in Computer Applications (Data Science) at **NIT Patna**, and an enthusiastic aspiring **Data Analyst**. I’m passionate about uncovering insights from data, transforming raw information into meaningful stories, and supporting data-driven decision-making. I love working on real-world analytics projects, sharpening my skills in visualization, and exploring the ever-evolving world of data.
 
 # 🚀 About Me
 
