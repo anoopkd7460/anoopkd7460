@@ -42,13 +42,11 @@ Explore all projects here: My GitHub Projects
 
 # 📜 Certifications
 
-- Java Programming – HackerRank 
+- Java Programming, MySQL(Basic), Python  – HackerRank 
 
 - C++ – Sololearn
 
-- MySQL(Basic) - HackerRank
-
-- Python - HackerRank
+- Data Analyst - Udemy
 ***
 
 # 🏆 Achievements
