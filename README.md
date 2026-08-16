@@ -26,66 +26,65 @@ My approach is simple:
 
 ---
 
-# 💻 Technical Skills
+# 💻 Skills & Technologies
 
 ### 👨‍💻 Programming
 
-* Python
-* C++
-* Java
-* SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
+
+**SQL**
+
+---
 
 ### 📊 Data Science & Analytics
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Data Cleaning
-* Exploratory Data Analysis
-* Feature Engineering
-* Statistical Analysis
-* Data Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,matplotlib" />
+</p>
+
+**Pandas • NumPy • Seaborn • Data Cleaning • Exploratory Data Analysis • Feature Engineering • Statistical Analysis • Data Visualization**
+
+---
 
 ### 🤖 Machine Learning & AI
 
-* Supervised & Unsupervised Learning
-* Model Evaluation
-* Deep Learning
-* NLP
-* Computer Vision
-* Generative AI
-* LLM Applications
-* Agentic AI
-* AI Agent Development
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
+</p>
+
+**Supervised & Unsupervised Learning • Model Evaluation • Deep Learning • NLP • Computer Vision • Generative AI • LLM Applications • Agentic AI • AI Agent Development**
+
+---
 
 ### 📈 Business Intelligence
 
-* Power BI
-* DAX
-* Power Query
-* Microsoft Excel
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
+
+**Power BI • DAX • Power Query • Microsoft Excel**
+
+---
 
 ### 🗄️ Databases
 
-* SQL
-* MySQL
-* PostgreSQL
-* MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+**SQL • MySQL • PostgreSQL • MongoDB**
+
+---
 
 ### 🧰 Tools & Technologies
 
-* Git
-* GitHub
-* Jupyter Notebook
-* Google Colab
-* VS Code
-* Streamlit
-* FastAPI
-* Hugging Face
-* LangChain
-* Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,streamlit,fastapi,huggingface,langchain,docker" />
+</p>
+
+**Git • GitHub • Jupyter Notebook • Google Colab • VS Code • Streamlit • FastAPI • Hugging Face • LangChain • Docker**
 
 ---
 
@@ -192,11 +191,12 @@ I'm particularly interested in learning how modern AI systems can combine **LLMs
 
 # 📜 Certifications
 
-* 🐍 Python — HackerRank
-* ☕ Java Programming — HackerRank
-* 🗄️ MySQL — HackerRank
-* 💻 C++ — SoloLearn
-* 📊 Data Analyst — Udemy
+* 🎓 [**Generative AI, LLM & RAG**](https://www.geeksforgeeks.org/certificate/e48a006808e5ab524eb9aa55a1095a76) — GeeksforGeeks
+* 📊 [**Data Analyst Bootcamp: Basic to Advanced**](https://www.udemy.com/certificate/UC-9aaaf16a-accd-4f59-adaf-6d84df1674fb/) — Udemy
+* 🗄️ [**SQL (Basic)**](https://www.hackerrank.com/certificates/iframe/9e1e0b25d823) — HackerRank
+* 🐍 [**Python (Basic)**](https://www.hackerrank.com/certificates/iframe/a8b7ca56f4d5) — HackerRank
+* ☕ [**Java Programming**](https://www.hackerrank.com/certificates/iframe/bac5a6c6b7bf) — HackerRank
+* 💻 [**C++**](https://www.sololearn.com/Certificate/CT-IGZFM82B/png) — SoloLearn
 
 ---
 
