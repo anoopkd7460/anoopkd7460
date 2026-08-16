@@ -31,7 +31,7 @@ My approach is simple:
 ### 👨‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
 **SQL**
@@ -41,17 +41,17 @@ My approach is simple:
 ### 📊 Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn" />
 </p>
 
-**Pandas • NumPy • Seaborn • Data Cleaning • Exploratory Data Analysis • Feature Engineering • Statistical Analysis • Data Visualization**
+**Data Cleaning • Exploratory Data Analysis • Feature Engineering • Statistical Analysis • Data Visualization**
 
 ---
 
 ### 🤖 Machine Learning & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 </p>
 
 **Supervised & Unsupervised Learning • Model Evaluation • Deep Learning • NLP • Computer Vision • Generative AI • LLM Applications • Agentic AI • AI Agent Development**
@@ -61,7 +61,7 @@ My approach is simple:
 ### 📈 Business Intelligence
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://skillicons.dev/icons?i=pbi" />
 </p>
 
 **Power BI • DAX • Power Query • Microsoft Excel**
@@ -71,7 +71,7 @@ My approach is simple:
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 **SQL • MySQL • PostgreSQL • MongoDB**
@@ -183,32 +183,19 @@ I'm particularly interested in learning how modern AI systems can combine **LLMs
 
 ---
 
-# 🏆 Achievement
-
-🏅 **NIMCET 2024 — AIR 544**
-
----
-
 # 📜 Certifications
 
 * 🎓 [**Generative AI, LLM & RAG**](https://www.geeksforgeeks.org/certificate/e48a006808e5ab524eb9aa55a1095a76) — GeeksforGeeks
 * 📊 [**Data Analyst Bootcamp: Basic to Advanced**](https://www.udemy.com/certificate/UC-9aaaf16a-accd-4f59-adaf-6d84df1674fb/) — Udemy
 * 🗄️ [**SQL (Basic)**](https://www.hackerrank.com/certificates/iframe/9e1e0b25d823) — HackerRank
 * 🐍 [**Python (Basic)**](https://www.hackerrank.com/certificates/iframe/a8b7ca56f4d5) — HackerRank
-* ☕ [**Java Programming**](https://www.hackerrank.com/certificates/iframe/bac5a6c6b7bf) — HackerRank
-* 💻 [**C++**](https://www.sololearn.com/Certificate/CT-IGZFM82B/png) — SoloLearn
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/anoopkd7460">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=anoopkd7460&show_icons=true&rank_icon=github&include_all_commits=true" alt="Anoop's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anoopkd7460">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopkd7460&layout=compact&langs_count=8&card_width=320" alt="Anoop's Top Languages" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoopkd7460&hide_border=true" alt="Anoop's GitHub Activity Graph" />
 </p>
 
 ---
