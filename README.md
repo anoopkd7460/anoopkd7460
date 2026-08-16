@@ -1,67 +1,227 @@
-### 👋 Welcome to My GitHub!
-Hello! I'm **Anoop Dwivedi**, a Master's student in Computer Applications (Data Science) at **NIT Patna**, and an enthusiastic aspiring **Data Analyst**. I’m passionate about uncovering insights from data, transforming raw information into meaningful stories, and supporting data-driven decision-making. I love working on real-world analytics projects, sharpening my skills in visualization, and exploring the ever-evolving world of data.
+# 👋 Hi, I'm Anoop Dwivedi
 
-# 🚀 About Me
+### Data Science & AI/ML Enthusiast | MCA'27 @ NIT Patna
 
-- 🎓 MCA (Data Science) student at NIT Patna
-- 💡 Keen interest in data analytics, web development, and system design
-- 🧠 Always upskilling – currently exploring network programming, image processing, and Big Data fundamentals
-- 🛠️ Focused on writing clean, efficient code and building impactful projects
-- 🌐 Passionate about open source, collaboration, and knowledge sharing
-- 🌱 Always exploring new tools, frameworks, and methodologies in data science.
-***
+I'm currently pursuing an **MCA in Data Science & Informatics at NIT Patna**, with a strong interest in **Data Science, Machine Learning, AI/ML Engineering, Generative AI, and Agentic AI**.
 
+I enjoy building **real-world, data-driven and AI-powered applications** that transform raw data and complex problems into practical solutions.
 
-# 💻 My Skills & Tools
+My approach is simple:
 
-- **Programming Languages:** Python, C++, Java, MySQL, HTML, CSS, JavaScript
-- **Technologies & Tools:** Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Tableau
-- **Database:** MySQL Database
-- **IDE & Platforms:** VS Code, Jupyter, Google Colab, Git & GitHub, XAMPP
-- **Others:** MS Excel, MS Word, MySQL Workbench
-***
+**Understand the problem → Work with the data → Build the model/system → Evaluate → Deploy → Create impact**
 
+---
 
-# 🧪 Projects
+## 🚀 About Me
 
-**🔍 Web Page Word Frequency Analyzer**
-**Tools:** Python, BeautifulSoup, urllib, collections.Counter
+* 🎓 MCA'27 — **Data Science & Informatics, NIT Patna**
+* 🤖 Interested in **Data Science, Machine Learning, AI/ML & Agentic AI**
+* 🧠 Exploring **Generative AI, LLM applications, AI Agents & intelligent automation**
+* 📊 Experienced with **Data Analytics, SQL, Power BI & Data Visualization**
+* 🐍 Strong foundation in **Python and Machine Learning**
+* 🔬 Interested in **NLP, Computer Vision and Deep Learning**
+* 🛠️ Build projects focused on **real-world business and technology problems**
+* 📚 Continuously improving my problem-solving, system-building and software development skills
+* 💼 **Open to internships, full-time and entry-level opportunities** in Data Science, AI/ML and Analytics
 
-Scrapes and analyzes word frequency from web page content
-Implements data cleaning, tokenization, and visualization of word trends
+---
 
-**💬 Chat System for Multiple Clients**
-**Tools:** Python, Sockets, Threading, PIL
+# 💻 Technical Skills
 
-Developed a UDP-based real-time messaging system
-Supports both text and image communication with compression techniques
+### 👨‍💻 Programming
 
-Explore all projects here: My GitHub Projects
-*** 
+* Python
+* C++
+* Java
+* SQL
 
+### 📊 Data Science & Analytics
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Data Cleaning
+* Exploratory Data Analysis
+* Feature Engineering
+* Statistical Analysis
+* Data Visualization
+
+### 🤖 Machine Learning & AI
+
+* Supervised & Unsupervised Learning
+* Model Evaluation
+* Deep Learning
+* NLP
+* Computer Vision
+* Generative AI
+* LLM Applications
+* Agentic AI
+* AI Agent Development
+
+### 📈 Business Intelligence
+
+* Power BI
+* DAX
+* Power Query
+* Microsoft Excel
+
+### 🗄️ Databases
+
+* SQL
+* MySQL
+* PostgreSQL
+* MongoDB
+
+### 🧰 Tools & Technologies
+
+* Git
+* GitHub
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* Streamlit
+* FastAPI
+* Hugging Face
+* LangChain
+* Docker
+
+---
+
+# 🧪 Featured Projects
+
+## 📊 Enterprise Inventory Analytics Dashboard
+
+**SQL Server | Power BI | DAX | Power Query | Data Analytics**
+
+Built an enterprise-style inventory analytics solution to monitor demand, availability, supply shortages and inventory performance.
+
+**Key highlights:**
+
+* Analyzed **124K+ units of demand** and **63K+ units of availability**
+* Designed interactive Power BI dashboards for inventory monitoring
+* Developed SQL workflows for data cleaning, validation and business analysis
+* Created KPIs and business insights to identify inventory gaps and supply shortages
+* Implemented DAX measures and Power Query transformations
+
+---
+
+## 🧠 Enterprise Autonomous AI Analyst
+
+**Python | SQL | LLMs | Agentic AI | RAG | Data Analytics**
+
+Building an AI-powered analytics system that enables business users to interact with organizational data using natural language.
+
+The system is designed to:
+
+**User Question → AI Planner → Data/SQL Agent → Analysis → Insights → Explanation**
+
+Potential use cases include:
+
+* Revenue analysis
+* Customer analytics
+* Inventory analysis
+* Financial reporting
+* Automated business insights
+* Natural-language SQL analytics
+
+---
+
+## 🗣️ VoiceBeyond AI
+
+**Python | Computer Vision | MediaPipe | Machine Learning | OpenCV**
+
+An AI-powered communication system designed to assist people with speech and hearing-related communication challenges.
+
+Developed a **lip movement detection and classification pipeline** involving:
+
+* Lip landmark extraction
+* Feature engineering
+* Dataset collection
+* Machine learning classification
+* Real-time webcam prediction
+* Prediction pipeline for lip movements
+
+---
+
+## 🩺 Vision Transformer for Biomedical Image Classification
+
+**Python | PyTorch | Hugging Face | Vision Transformer | MedMNIST**
+
+Implemented Vision Transformer-based models for biomedical image classification using MedMNIST datasets.
+
+Worked with datasets including:
+
+* BreastMNIST
+* BloodMNIST
+* PathMNIST
+* RetinaMNIST
+
+Focused on model implementation, training, evaluation and adapting the project to changes in modern ML libraries.
+
+---
+
+# 📚 Areas I'm Currently Focused On
+
+```text
+Data Science
+    ↓
+Machine Learning
+    ↓
+Deep Learning
+    ↓
+Generative AI
+    ↓
+LLM Applications
+    ↓
+Agentic AI
+    ↓
+AI-Powered Applications
+```
+
+I'm particularly interested in learning how modern AI systems can combine **LLMs, tools, data, APIs, memory and autonomous workflows** to solve complex real-world problems.
+
+---
+
+# 🏆 Achievement
+
+🏅 **NIMCET 2024 — AIR 544**
+
+---
 
 # 📜 Certifications
 
-- Java Programming, MySQL(Basic), Python  – HackerRank 
+* 🐍 Python — HackerRank
+* ☕ Java Programming — HackerRank
+* 🗄️ MySQL — HackerRank
+* 💻 C++ — SoloLearn
+* 📊 Data Analyst — Udemy
 
-- C++ – Sololearn
+---
 
-- Data Analyst - Udemy
-***
+## 📊 GitHub Stats
 
-# 🏆 Achievements
+<p align="center">
+  <a href="https://github.com/anoopkd7460">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=anoopkd7460&show_icons=true&rank_icon=github&include_all_commits=true" alt="Anoop's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anoopkd7460">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopkd7460&layout=compact&langs_count=8&card_width=320" alt="Anoop's Top Languages" />
+  </a>
+</p>
 
-NIMCET AIR 544 (2024)
+---
 
-***
+# 🤝 Let's Connect
 
-📬 Let's Connect!
+I'm interested in connecting with **developers, data professionals, AI/ML engineers, recruiters and organizations** working on interesting technology and real-world problems.
 
-🔗 LinkedIn:https://www.linkedin.com/in/anoop-dwivedi
+* 💼 LinkedIn: **Anoop Dwivedi**
+* 📧 Email: **[anoopdwivedi816@gmail.com](mailto:anoopdwivedi816@gmail.com)**
 
-📧 Email: anoopdwivedi816@gmail.com
+---
 
-***
+### 🚀 Build. Learn. Solve. Repeat.
 
-
-Feel free to explore my repositories, provide feedback, or connect for collaboration. Let's learn and build together! 🚀
+I'm always looking for opportunities to **build meaningful products, solve challenging problems and grow as a Data Science & AI professional.**
