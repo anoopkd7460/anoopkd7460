@@ -34,27 +34,41 @@ My approach is simple:
   <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
-**SQL**
-
 ---
 
 ### 📊 Data Science & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" />
 </p>
 
-**Data Cleaning • Exploratory Data Analysis • Feature Engineering • Statistical Analysis • Data Visualization**
+<p>
+  <img src="https://img.shields.io/badge/🧹_Data_Cleaning-Data_Science-informational" />
+  <img src="https://img.shields.io/badge/🔎_Exploratory_Data_Analysis-Data_Science-informational" />
+  <img src="https://img.shields.io/badge/⚙️_Feature_Engineering-Data_Science-informational" />
+  <img src="https://img.shields.io/badge/📊_Statistical_Analysis-Data_Science-informational" />
+  <img src="https://img.shields.io/badge/📈_Data_Visualization-Data_Science-informational" />
+</p>
 
 ---
 
 ### 🤖 Machine Learning & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv" />
 </p>
 
-**Supervised & Unsupervised Learning • Model Evaluation • Deep Learning • NLP • Computer Vision • Generative AI • LLM Applications • Agentic AI • AI Agent Development**
+<p>
+  <img src="https://img.shields.io/badge/📚_Supervised_&_Unsupervised_Learning-Machine_Learning-informational" />
+  <img src="https://img.shields.io/badge/🎯_Model_Evaluation-Machine_Learning-informational" />
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-AI-informational" />
+  <img src="https://img.shields.io/badge/💬_NLP-AI-informational" />
+  <img src="https://img.shields.io/badge/👁️_Computer_Vision-AI-informational" />
+  <img src="https://img.shields.io/badge/✨_Generative_AI-AI-informational" />
+  <img src="https://img.shields.io/badge/🧩_LLM_Applications-AI-informational" />
+  <img src="https://img.shields.io/badge/🤖_Agentic_AI-AI-informational" />
+  <img src="https://img.shields.io/badge/⚙️_AI_Agent_Development-AI-informational" />
+</p>
 
 ---
 
@@ -64,7 +78,12 @@ My approach is simple:
   <img src="https://skillicons.dev/icons?i=pbi" />
 </p>
 
-**Power BI • DAX • Power Query • Microsoft Excel**
+<p>
+  <img src="https://img.shields.io/badge/📊_Power_BI-Business_Intelligence-informational" />
+  <img src="https://img.shields.io/badge/📐_DAX-Power_BI-informational" />
+  <img src="https://img.shields.io/badge/🔄_Power_Query-Data_Transformation-informational" />
+  <img src="https://img.shields.io/badge/📗_Microsoft_Excel-Analytics-informational" />
+</p>
 
 ---
 
@@ -74,7 +93,9 @@ My approach is simple:
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
-**SQL • MySQL • PostgreSQL • MongoDB**
+<p>
+  <img src="https://img.shields.io/badge/🗃️_SQL-Database-informational" />
+</p>
 
 ---
 
@@ -84,7 +105,9 @@ My approach is simple:
   <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,streamlit,fastapi,huggingface,langchain,docker" />
 </p>
 
-**Git • GitHub • Jupyter Notebook • Google Colab • VS Code • Streamlit • FastAPI • Hugging Face • LangChain • Docker**
+<p>
+  <img src="https://img.shields.io/badge/☁️_Google_Colab-Development-informational" />
+</p>
 
 ---
 
@@ -192,10 +215,10 @@ I'm particularly interested in learning how modern AI systems can combine **LLMs
 
 ---
 
-## 📈 GitHub Activity
+## 🐍 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoopkd7460&hide_border=true" alt="Anoop's GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/anoopkd7460/anoopkd7460/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
