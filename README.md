@@ -215,14 +215,6 @@ I'm particularly interested in learning how modern AI systems can combine **LLMs
 
 ---
 
-## 🐍 GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anoopkd7460/anoopkd7460/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 # 🤝 Let's Connect
 
 I'm interested in connecting with **developers, data professionals, AI/ML engineers, recruiters and organizations** working on interesting technology and real-world problems.
