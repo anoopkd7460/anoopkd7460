@@ -210,7 +210,7 @@ I'm particularly interested in learning how modern AI systems can combine **LLMs
 
 * 🎓 [**Generative AI, LLM & RAG**](https://www.geeksforgeeks.org/certificate/e48a006808e5ab524eb9aa55a1095a76) — GeeksforGeeks
 * 📊 [**Data Analyst Bootcamp: Basic to Advanced**](https://www.udemy.com/certificate/UC-9aaaf16a-accd-4f59-adaf-6d84df1674fb/) — Udemy
-* 🗄️ [**SQL (Basic)**](https://www.hackerrank.com/certificates/iframe/9e1e0b25d823) — HackerRank
+* 🗄️ **SQL**[Basic](https://www.hackerrank.com/certificates/iframe/9e1e0b25d823), [Intermediate](https://www.hackerrank.com/certificates/7a7b912787f5) — HackerRank
 * 🐍 [**Python (Basic)**](https://www.hackerrank.com/certificates/iframe/a8b7ca56f4d5) — HackerRank
 
 ---
