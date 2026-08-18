@@ -150,23 +150,6 @@ Potential use cases include:
 
 ---
 
-## 🗣️ VoiceBeyond AI
-
-**Python | Computer Vision | MediaPipe | Machine Learning | OpenCV**
-
-An AI-powered communication system designed to assist people with speech and hearing-related communication challenges.
-
-Developed a **lip movement detection and classification pipeline** involving:
-
-* Lip landmark extraction
-* Feature engineering
-* Dataset collection
-* Machine learning classification
-* Real-time webcam prediction
-* Prediction pipeline for lip movements
-
----
-
 ## 🩺 Vision Transformer for Biomedical Image Classification
 
 **Python | PyTorch | Hugging Face | Vision Transformer | MedMNIST**
