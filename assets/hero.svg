@@ -1,0 +1,34 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B1020"/>
+    <stop offset="0.48" stop-color="#111827"/>
+    <stop offset="1" stop-color="#172554"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="150" y1="50" x2="1050" y2="310" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset="0.5" stop-color="#818CF8"/>
+    <stop offset="1" stop-color="#C084FC"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1050" cy="40" r="130" fill="#6366F1" opacity=".18" filter="url(#blur)"/>
+<circle cx="160" cy="310" r="120" fill="#06B6D4" opacity=".13" filter="url(#blur)"/>
+<path d="M0 290C170 240 220 330 390 275C560 220 670 310 820 255C970 200 1060 245 1200 190" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+<path d="M0 305C170 255 220 345 390 290C560 235 670 325 820 270C970 215 1060 260 1200 205" stroke="#fff" stroke-opacity=".08"/>
+<g opacity=".18" stroke="#CBD5E1">
+  <path d="M0 60H1200"/><path d="M0 120H1200"/><path d="M0 180H1200"/><path d="M0 240H1200"/><path d="M0 300H1200"/>
+  <path d="M100 0V360"/><path d="M300 0V360"/><path d="M500 0V360"/><path d="M700 0V360"/><path d="M900 0V360"/><path d="M1100 0V360"/>
+</g>
+<text x="72" y="118" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">DATA SCIENCE  •  AI/ML  •  GENERATIVE AI</text>
+<text x="70" y="178" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800">Anoop Dwivedi</text>
+<text x="74" y="220" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="23">Building intelligent systems from data to deployment.</text>
+<g transform="translate(74 255)">
+  <rect width="168" height="38" rx="19" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".55"/>
+  <text x="84" y="25" text-anchor="middle" fill="#67E8F9" font-family="Arial" font-size="14" font-weight="700">MCA'27 • NIT PATNA</text>
+  <rect x="180" width="132" height="38" rx="19" fill="#0F172A" stroke="#818CF8" stroke-opacity=".55"/>
+  <text x="246" y="25" text-anchor="middle" fill="#A5B4FC" font-family="Arial" font-size="14" font-weight="700">AI + ANALYTICS</text>
+</g>
+<text x="1110" y="315" text-anchor="end" fill="#64748B" font-family="Arial" font-size="13">PYTHON • SQL • LLMs • AGENTS • RAG</text>
+</svg>
