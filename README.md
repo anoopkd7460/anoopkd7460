@@ -260,28 +260,26 @@ I'm currently focusing on building a stronger understanding of **LLM application
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-
 ## 📈 GitHub Activity
 
 <p align="center">
-  <b>Building. Learning. Shipping.</b>
+  <img
+    src="https://raw.githubusercontent.com/anoopkd7460/anoopkd7460/output/activity-graph.svg"
+    alt="Anoop Dwivedi GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/anoopkd7460">
-    <img src="https://img.shields.io/badge/GitHub-anoopkd7460-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-anoopkd7460-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <a href="https://github.com/anoopkd7460?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
 
-<br>
-
-> 🚀 Currently building projects focused on **Generative AI, Agentic AI, Data Science and Machine Learning**.
-
-<!-- =========================================================== -->
+> 🚀 Building and shipping projects across **Generative AI, Agentic AI, Data Science, Machine Learning, and Software Engineering**.
 ---
 
 # 🤝 Let's Connect
