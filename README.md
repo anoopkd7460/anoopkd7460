@@ -260,17 +260,28 @@ I'm currently focusing on building a stronger understanding of **LLM application
 
 ---
 
-# 📈 GitHub Activity
+<!-- ===================== GITHUB ACTIVITY ===================== -->
 
-<div align="center">
+## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=anoopkd7460&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopkd7460&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<p align="center">
+  <b>Building. Learning. Shipping.</b>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/anoopkd7460">
+    <img src="https://img.shields.io/badge/GitHub-anoopkd7460-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/anoopkd7460?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-> **Note:** GitHub statistics are loaded from an external service. The core profile visuals above are stored directly in this repository.
+<br>
 
+> 🚀 Currently building projects focused on **Generative AI, Agentic AI, Data Science and Machine Learning**.
+
+<!-- =========================================================== -->
 ---
 
 # 🤝 Let's Connect
